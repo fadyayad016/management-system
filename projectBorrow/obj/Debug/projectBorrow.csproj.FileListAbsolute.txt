@@ -1,0 +1,82 @@
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe.config
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\bin\Debug\projectBorrow.pdb
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.AssemblyReference.cache
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Properties.Resources.resources
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.GenerateResource.cache
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.CoreCompileInputs.cache
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.exe
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.pdb
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Login.resources
+C:\Users\BOTROS\source\repos\projectBorrow\projectBorrow\obj\Debug\projectBorrow.MainFormSystem.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe.config
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\projectBorrow.pdb
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.AssemblyReference.cache
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Login.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.MainFormSystem.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Properties.Resources.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.GenerateResource.cache
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.CoreCompileInputs.cache
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.exe
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.pdb
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Disply.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AddCustomer20.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AddCustomer30.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AboutUs.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Income.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Out_Money.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Search.resources
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\EntityFramework.dll
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\EntityFramework.SqlServer.dll
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\EntityFramework.xml
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\bin\Debug\EntityFramework.SqlServer.xml
+D:\Beshoy\Advanced\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Migrations.M1.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe.config
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\projectBorrow.pdb
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\EntityFramework.dll
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\EntityFramework.SqlServer.dll
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\EntityFramework.xml
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\bin\Debug\EntityFramework.SqlServer.xml
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AboutUs.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AddCustomer20.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AddCustomer30.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Disply.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Income.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Login.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.MainFormSystem.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Out_Money.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Properties.Resources.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Search.resources
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.GenerateResource.cache
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.CoreCompileInputs.cache
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.CopyComplete
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.exe
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.pdb
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.AssemblyReference.cache
+E:\borrrrrrrrrrrow project\Good boys\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Migrations.intialchanging.resources
+D:\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe.config
+D:\projectBorrow\projectBorrow\bin\Debug\projectBorrow.exe
+D:\projectBorrow\projectBorrow\bin\Debug\projectBorrow.pdb
+D:\projectBorrow\projectBorrow\bin\Debug\EntityFramework.dll
+D:\projectBorrow\projectBorrow\bin\Debug\EntityFramework.SqlServer.dll
+D:\projectBorrow\projectBorrow\bin\Debug\EntityFramework.xml
+D:\projectBorrow\projectBorrow\bin\Debug\EntityFramework.SqlServer.xml
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.AssemblyReference.cache
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AboutUs.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AddCustomer20.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.AddCustomer30.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Disply.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Income.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Login.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.MainFormSystem.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Migrations.intialchanging.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Out_Money.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Properties.Resources.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.Search.resources
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.GenerateResource.cache
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.CoreCompileInputs.cache
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.csproj.CopyComplete
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.exe
+D:\projectBorrow\projectBorrow\obj\Debug\projectBorrow.pdb
